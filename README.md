@@ -7,7 +7,7 @@ Mahasiswa Universitas Siber Asia
 Tujuan belajar Data Science adalah memenuhi mata kuliah yang harus diambil dan semoga ilmu bisa bermanfaat minimal untuk diri saya sendiri
 
 
-List Notebook
+# List Notebook
 
 Pertemuan 1 - Pengenalan Data Science Link : https://github.com/adhibgs/data-science-2025/blob/main/Pertemuan1_Adhi_Bagus_May_Maulana_250401020116.ipynb
 
