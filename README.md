@@ -22,3 +22,8 @@ Pertemuan 5 - Visualisasi Data Link : https://github.com/adhibgs/data-science-20
 Pertemuan 6 - Persiapan Data Link : https://github.com/adhibgs/data-science-2025/blob/main/Pertemuan6_Adhi_Bagus_May_Maulana_250401020116.ipynb
 
 Pertemuan 7 - Pengantar Machine Learning: Regresi Linier Link : https://github.com/adhibgs/data-science-2025/blob/main/Pertemuan7_Adhi_Bagus_May_Maulana_250401020116.ipynb
+
+
+# Kesimpulan Pembelajaran
+
+Selama 7 pertemuan praktikum, saya telah belajar Siklus Hidup Data Science secara lengkap. Progresnya dimulai dari belajar dasar coding (pertemuan 1), membaca dan membedah karakteristik data (pertemuan 2 & 4), membersihkan data yang kotor agar siap pakai (pertemuan 3 & 6), menyajikan data dalam bentuk grafik/laporan yang menarik (pertemuan 5), hingga akhirnya berhasil membuat sistem AI/Machine Learning untuk memprediksi data masa depan secara otomatis dan akurat (pertemuan 7)
