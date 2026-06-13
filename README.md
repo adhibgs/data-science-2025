@@ -4,7 +4,11 @@ Nama : Adhi Bagus May Maulana
 NIM : 250401020116
 Prodi : Teknik Informatika
 Mahasiswa Universitas Siber Asia 
-Tujuan belajar Data Science adalah memenuhi mata kuliah yang harus diambil dan semoga ilmu bisa bermanfaat minimal untuk diri saya sendiri
+
+
+Salam Sejahtera untuk kita semua, perkenalkan nama saya Adhi Bagus May Maulana saya Mahasiswa PJJ Prodi Teknik Informatika Universitas Siber Asia, saya sekarang juga bekerja di Pemerintahan sebagai ASN yang ingin melanjutkan studi agar menjadi lebih baik dan memiliki ilmu yang bisa bermanfaat bagi masyarakat dan dalam pelayanan sebagai seorang ASN.
+
+Tujuan belajar Data Science adalah memenuhi mata kuliah yang harus diambil dan semoga ilmu bisa bermanfaat minimal untuk diri saya sendiri dan untuk masyarakat.
 
 
 # List Notebook
@@ -27,3 +31,5 @@ Pertemuan 7 - Pengantar Machine Learning: Regresi Linier Link : https://github.c
 # Kesimpulan Pembelajaran
 
 Selama 7 pertemuan praktikum, saya telah belajar Siklus Hidup Data Science secara lengkap. Progresnya dimulai dari belajar dasar coding (pertemuan 1), membaca dan membedah karakteristik data (pertemuan 2 & 4), membersihkan data yang kotor agar siap pakai (pertemuan 3 & 6), menyajikan data dalam bentuk grafik/laporan yang menarik (pertemuan 5), hingga akhirnya berhasil membuat sistem AI/Machine Learning untuk memprediksi data masa depan secara otomatis dan akurat (pertemuan 7)
+
+Dalam proses
